@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r285-q736-9v95",
-	"modified": "2024-02-16T08:21:59.416134Z",
+	"modified": "2024-02-20T05:32:46.538639Z",
 	"published": "2023-08-31T00:30:17Z",
 	"aliases": [
 		"CVE-2023-39137"
@@ -139,7 +139,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.rapid7.com/db/modules/exploit/windows/fileformat/winrar_name_spoofing/"
+			"url": "https://www.rapid7.com/db/modules/exploit/windows/fileformat/winrar_name_spoofing"
 		}
 	],
 	"database_specific": {
