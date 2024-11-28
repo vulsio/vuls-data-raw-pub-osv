@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4xh4-v2pq-jvhm",
-	"modified": "2023-11-08T04:11:39.890896Z",
+	"modified": "2024-11-28T05:27:19.905174Z",
 	"published": "2022-09-19T22:47:29Z",
 	"aliases": [
 		"CVE-2023-22963"

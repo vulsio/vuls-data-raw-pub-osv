@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9f2c-xxfm-32mj",
-	"modified": "2023-04-11T01:39:18.920384Z",
+	"modified": "2024-11-28T05:50:37.563485Z",
 	"published": "2023-01-11T06:30:20Z",
 	"summary": "Duplicate of GHSA-4xh4-v2pq-jvhm",
 	"details": "## Duplicate Advisory\n\nThis advisory has been withdrawn because it is a duplicate of [GHSA-4xh4-v2pq-jvhm](https://github.com/advisories/GHSA-4xh4-v2pq-jvhm). This link is maintained to preserve external references.\n\n## Original Description\n\nThe personnummer implementation before 3.0.3 for Dart mishandles numbers in which the last four digits match the ^000[0-9]$ regular expression.",
